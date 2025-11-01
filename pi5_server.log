@@ -1,0 +1,73 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+INFO:     Started server process [12274]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[pi5_server] Loaded TFLite model from '/home/pk/mICROOOOO/leaf_resnet50_float.tflite'.
+INFO:     10.141.5.187:59747 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59748 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59749 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59750 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59751 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59752 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59753 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59754 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59755 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59756 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59757 - "GET /result HTTP/1.1" 404 Not Found
+INFO:     10.141.5.187:59758 - "POST /upload HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59759 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59760 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59761 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59762 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59763 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59764 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59765 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59766 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59767 - "POST /upload HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59768 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59769 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59770 - "POST /upload HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59771 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59772 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59773 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59774 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59775 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59776 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59777 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59778 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59779 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59780 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59781 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59782 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59783 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59784 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59785 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59786 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59787 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59788 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59789 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59790 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59791 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59792 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59793 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59794 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59795 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59796 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59797 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59798 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59799 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59800 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59801 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59802 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59803 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59804 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59805 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59806 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59807 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59808 - "GET /result HTTP/1.1" 200 OK
+INFO:     10.141.5.187:59809 - "GET /result HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [12274]
