@@ -328,6 +328,7 @@ This project is open-source. Feel free to modify and distribute as needed for ed
 ## 👥 Author
 
 - Mahfuz Hasan Reza (@mahfuzhasanreza)
+- Provat Kundu Shawon (@Pshawon-kundu) [AI/ML Developer]
 
 ## 🙏 Acknowledgments
 
